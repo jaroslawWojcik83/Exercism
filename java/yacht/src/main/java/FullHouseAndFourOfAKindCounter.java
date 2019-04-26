@@ -1,0 +1,6 @@
+public enum FullHouseAndFourOfAKindCounter {
+    FULL_HOUSE_FIRST_GIVEN,
+    FULL_HOUSE_SECOND_GIVEN,
+    FOUR_OF_A_KIND_FIRST_GIVEN,
+    FOUR_OF_A_KIND_SECOND_GIVEN
+}
